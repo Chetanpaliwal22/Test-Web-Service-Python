@@ -1,0 +1,7 @@
+The give test_quotes_api was able to identify following bugs:
+
+1. Error: Quotes are not sorted. is thrown when quotes are not sorted.
+2. Error: Quotes are duplicated. is thronw in case of duplicated quotes.
+3. Error: Post functionality is not working. This error will be raised when post functionality is not working.
+4. Error: Not able to fetch unique quote, is thronw in case of get unique quote is not working.
+5. Error: Delete functionality not working, is thrown in case if delete is not working.
